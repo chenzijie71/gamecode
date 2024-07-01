@@ -48,5 +48,6 @@ public class lesson1_math_mathf : MonoBehaviour
     {
         #region Lerp插值
         //lerp插值主要分为两个 一个是变start(先快后慢 永远碰不到) 一个是不变start变t(匀速)
+        #endregion
     }
 }
